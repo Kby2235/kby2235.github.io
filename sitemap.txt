@@ -1,0 +1,8 @@
+links/index.html
+2022/07/07/microsoft/
+2022/07/07/hello-world/
+tags/index.html
+about/index.html
+archives/index.html
+guestbook/index.html
+http://kby2235.github.io/
