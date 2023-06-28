@@ -12,7 +12,7 @@
     "version": "6.2.0"
   },
   "dependencies": {
-    "gitalk": "^1.7.2",
+    "gitalk": "^1.8.0",
     "hexo": "^6.2.0",
     "hexo-browsersync": "^0.3.0",
     "hexo-butterfly-swiper-lyx": "^1.0.1",
